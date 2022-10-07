@@ -1,0 +1,66 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.container{
+	margin:0 auto;
+	background-color:#fff;
+}
+
+
+body{
+	background-color:#F8F9F9;
+}
+
+                  /*------------- contact style start ----------------*/
+				  
+.whole{
+	width:1140px;
+	margin:0 auto;
+	background-color:#fff;
+	padding:10px 0;
+}
+.contact{
+	display:flex;
+    justify-content:space-between;
+}
+.contact .contact-details a{
+	text-decoration:none;
+	font-size:17px;
+	color:#000;
+	font-family:cursive;
+	padding:0 15px;
+}
+.contact .contact-details i{
+	font-size:17px;
+}
+.contact-details .icofont-email{
+	color:#EA4335;
+}
+.contact-details .icofont-mobile-phone{
+	color: #777777;
+}
+.contact-media{
+	font-size:17px;
+	padding:0 15px;
+	letter-spacing:10px;
+}
+.contact-media .icofont-twitter{
+	color: #00acee;
+}
+.contact-media .icofont-facebook{
+	color: #3b5998;
+}
+.contact-media .icofont-instagram{
+	color:#DD2A7B;
+}
+.contact-media .icofont-linkedin{
+color:#0e76a8;
+}
+
+
+
+
+
+
